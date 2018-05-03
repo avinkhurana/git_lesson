@@ -2,7 +2,7 @@
 def my_square(x):
     
     """adding comment
-    newline
+    newline, new branch
     """
     return(x ** 2)
 def my_square2(y):
